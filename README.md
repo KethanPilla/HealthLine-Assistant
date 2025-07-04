@@ -1,4 +1,4 @@
-# HealthLine Assistant
+# HealthLine Assistant (AI RAG)
 
 A medical knowledge assistant that leverages RAG (Retrieval-Augmented Generation) to provide accurate healthcare information by combining document retrieval with LLM generation.
 
